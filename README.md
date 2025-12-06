@@ -87,7 +87,6 @@ I'm open to contributions, ML experiments, and compitative Exam prep.
 
 ---
 
-*Last updated: Dec 6, 2025*
 
 <!---
 Charliee420/Charliee420 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
