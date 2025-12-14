@@ -8,7 +8,7 @@ I’m a B.Tech (Computer Science) Second-year student and a defence aspirant wit
 
 ## 📚 About me
 
-* 🎓 B.Tech — 1st year (Computer Science)
+* 🎓 B.Tech — 2st year (Computer Science)
 * 🥋 JUDO >> NVS National 2023-24 
 * 🎯 Aspiring defence officer (preparing AFCAT alongside my degree)
 * 🔬 Research interest: integration of biological computing with silicon-based computing — *"Silicon Meets Neuron (NPU's)"*
